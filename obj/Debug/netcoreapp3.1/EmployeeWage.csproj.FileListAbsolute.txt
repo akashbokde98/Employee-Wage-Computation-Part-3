@@ -1,0 +1,14 @@
+D:\RFP\Assignments\Day-8 Assignment\EmployeeWage\EmployeeWage\bin\Debug\netcoreapp3.1\EmployeeWage.exe
+D:\RFP\Assignments\Day-8 Assignment\EmployeeWage\EmployeeWage\bin\Debug\netcoreapp3.1\EmployeeWage.deps.json
+D:\RFP\Assignments\Day-8 Assignment\EmployeeWage\EmployeeWage\bin\Debug\netcoreapp3.1\EmployeeWage.runtimeconfig.json
+D:\RFP\Assignments\Day-8 Assignment\EmployeeWage\EmployeeWage\bin\Debug\netcoreapp3.1\EmployeeWage.runtimeconfig.dev.json
+D:\RFP\Assignments\Day-8 Assignment\EmployeeWage\EmployeeWage\bin\Debug\netcoreapp3.1\EmployeeWage.dll
+D:\RFP\Assignments\Day-8 Assignment\EmployeeWage\EmployeeWage\bin\Debug\netcoreapp3.1\EmployeeWage.pdb
+D:\RFP\Assignments\Day-8 Assignment\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp3.1\EmployeeWage.csproj.AssemblyReference.cache
+D:\RFP\Assignments\Day-8 Assignment\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp3.1\EmployeeWage.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\Assignments\Day-8 Assignment\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp3.1\EmployeeWage.AssemblyInfoInputs.cache
+D:\RFP\Assignments\Day-8 Assignment\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp3.1\EmployeeWage.AssemblyInfo.cs
+D:\RFP\Assignments\Day-8 Assignment\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp3.1\EmployeeWage.csproj.CoreCompileInputs.cache
+D:\RFP\Assignments\Day-8 Assignment\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp3.1\EmployeeWage.dll
+D:\RFP\Assignments\Day-8 Assignment\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp3.1\EmployeeWage.pdb
+D:\RFP\Assignments\Day-8 Assignment\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp3.1\EmployeeWage.genruntimeconfig.cache
