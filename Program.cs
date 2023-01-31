@@ -29,20 +29,21 @@ namespace EmployeeWage
         }
         public void AttendanceCheck()
         {
-            int isPresent = randomNum.Next(0, 3);
-            if (isPresent == 1)
+            switch(randomNum.Next(0, 3))
             {
-                dailyEmpWage = wagePerHour * fullDayHour;
-                Console.WriteLine("Employee is Present and Wage is " + dailyEmpWage);
-            }
-            else if (isPresent == 2)
-            {
-                dailyEmpWage = wagePerHour * partTimeHour;
-                Console.WriteLine("Employee is Present Half Day and Wage is " + dailyEmpWage);
-            }
-            else
-            {
-                Console.WriteLine("Employee is Absent and Wage is " + dailyEmpWage);
+                case 1:
+                    dailyEmpWage = wagePerHour * fullDayHour;
+                    Console.WriteLine("Employee is Present and Wage is " + dailyEmpWage);
+                    break;
+
+                case 2:
+                    dailyEmpWage = wagePerHour * partTimeHour;
+                    Console.WriteLine("Employee is Present Half Day and Wage is " + dailyEmpWage);
+                    break;
+
+                default:
+                    Console.WriteLine("Employee is Absent and Wage is " + dailyEmpWage);
+                    break;
             }
         }
     }
