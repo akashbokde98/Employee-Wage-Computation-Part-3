@@ -20,14 +20,12 @@ namespace EmployeeWage
             partTimeHour = parttime;
             totalWorkingDay = totalworkday;
             totalWorkingHour = totalhour;
-            dailyEmpWage = iniVal;
-            
+            dailyEmpWage = iniVal;      
         }
 
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To Employee Wage Computation Program!");
-
             Program obj1 = new Program(20, 8, 4, 0, 0, 0);
             int wageForMonth = obj1.EmployeeWage();
             Console.WriteLine("Total Working Hour is " + obj1.totalWorkingHour);
